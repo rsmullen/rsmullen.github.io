@@ -1473,7 +1473,7 @@ input, select, textarea {
 		bottom: -1em;
 		height: 5em;
 		left: 0;
-		line-height: 4em;
+		line-height: 2em;
 		padding: 0 1.5em;
 		position: fixed;
 		user-select: none;
